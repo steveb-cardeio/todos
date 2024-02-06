@@ -10,9 +10,9 @@
 - *Yarn*
 - *Expo CLI*
 
-## Installation
+## Starting App
 
-Follow these steps to install the project:
+Follow these steps to install and run the project:
 
 - ``` yarn expo install ```
 - ``` yarn start```
